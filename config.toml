@@ -1,3 +1,86 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://kevinsztern.fr/"
+languageCode = "fr"
+title = "Kévin Sztern"
+theme = "hugo-initio"
+publishDir = "docs"
+googleAnalytics = "UA-115665598-1"
+disqusShortname = "kevinsztern"
+
+
+[params]
+    name = "Kévin Sztern"
+    description = "Ingénieur opérationnel"
+    email = "contact@kevinsztern.fr"
+    #phone = "+234 23 9873237"
+    #address = "234 Hidden Pond Road, Ashland City, TN 37015"
+    year = 2018
+    background = ""
+    favicon = "images/favicon.ico"
+    DateForm = "January 2, 2006"
+
+    showSubheader = true
+    showServices = false
+    showRecentWorks = false
+    showDownload = false
+    showClients = false
+
+    footerEnableContact = false
+    footerEnableFollowme = true
+    footerEnableTextWidget = false
+    footerEnableFormWidget = false
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "conférences"
+    url = "/conferences/"
+    weight = 4
+[[menu.main]]
+    name = "L'internet pour les nuls"
+    url = "/internet/"
+    weight = 5
+[[menu.main]]
+    name = "blog"
+    url = "/blog/"
+    weight = 6
+
+[params.disqus]
+    site = "kevinsztern.disqus.com"
+
+[params.sharethis]
+    property = "123456789012345678901234"
+    custom = true
+
+[params.google.analytics]
+    trackerID = "UA-115665598-1"
+
+[[params.social]]
+        title = "twitter"
+        url = "https://twitter.com/chewiebeardy"
+    icon = "fa-twitter-square"
+    footer = true
+    sharethis = true
+    network = "twitter"
+[[params.social]]
+        title = "linkedin"
+        url = "https://www.linkedin.com/in/kévin-sztern-0627515a"
+    icon = "fa-linkedin-square"
+    footer = true
+    sharethis = true
+    network = "linkedin"
+[[params.social]]
+        title = "github"
+        url = "https://github.com/chewie"
+    icon = "fa-github"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+        title = "email"
+        url = "mailto:contact@kevinsztern.fr"
+    icon = "fa-envelope"
+    footer = true
+    sharethis = true
+    network = "email"

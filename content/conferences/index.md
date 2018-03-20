@@ -7,6 +7,9 @@ Vous trouverez ici les enregistrements des différentes conférences que j'ai eu
 
 Disclaimer: certaines de ces conférences ont été effectuées dans un cadre associatif et étudiant, et sont donc *extrêmement* peu formelles.
 
+### Mesos: retour d'expérience
+
+{{< ubicast "https://tv.octo.com/permalink/v125a989425a5oeubtgm/iframe/" >}}
 
 ### Introduction aux systèmes distribués
 

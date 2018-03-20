@@ -5,6 +5,8 @@ next: /internet/internet2
 comments: true
 ---
 
+*Cet article a été initialement publié sur le [blog OCTO](https://blog.octo.com/linternet-pour-les-nuls-partie-1-sur-n/).*
+
 # Pourquoi cette série d'articles ?
 
 Cet article est le premier d'une série sur les protocoles réseaux

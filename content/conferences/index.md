@@ -7,6 +7,14 @@ Vous trouverez ici les enregistrements des différentes conférences que j'ai eu
 
 Disclaimer: certaines de ces conférences ont été effectuées dans un cadre associatif et étudiant, et sont donc *extrêmement* peu formelles.
 
+### Les algorithmes de consensus, partie 1
+
+{{< ubicast "https://tv.octo.com/permalink/v125aa4ea1671qqmnnvi/iframe/" >}}
+
+### IPv6: une manière de penser radicalement différente
+
+{{< ubicast "https://tv.octo.com/permalink/v125aaac08764p8wkees/iframe/" >}}
+
 ### Mesos: retour d'expérience
 
 {{< ubicast "https://tv.octo.com/permalink/v125a989425a5oeubtgm/iframe/" >}}

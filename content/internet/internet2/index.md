@@ -12,7 +12,7 @@ comments: true
 Cet article est le deuxième d'une série sur les protocoles réseaux
 contemporains.
 
--   [Partie 1: Historique et modélisation]({{< ref "internet/internet1/index.md" >}})
+-   [Partie 1: Historique et modélisation]({{< ref "/internet/internet1/index.md" >}})
 -   Partie 2: Ethernet
 
 Nous avons, lors de l'article précédent, établi un état des lieux global des

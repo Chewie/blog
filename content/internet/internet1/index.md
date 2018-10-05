@@ -13,7 +13,7 @@ Cet article est le premier d'une série sur les protocoles réseaux
 contemporains.
 
 -   Partie 1: Historique et modélisation
--   [Partie 2: Ethernet]({{< ref "internet/internet2/index.md" >}})
+-   [Partie 2: Ethernet]({{< ref "/internet/internet2/index.md" >}})
 
 L'objectif de cette série est d'offrir une vision complète, cohérente et
 didactique des différents protocoles mis en œuvre lors d'une

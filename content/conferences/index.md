@@ -9,23 +9,23 @@ Disclaimer: certaines de ces conférences ont été effectuées dans un cadre as
 
 ### Les algorithmes de consensus, partie 1
 
-{{< ubicast "https://tv.octo.com/permalink/v125aa4ea1671qqmnnvi/iframe/" >}}
+{{< ubicast "https://octo.ubicast.tv/permalink/v125aa4ea1671qqmnnvi/iframe/" >}}
 
 ### Les algorithmes de consensus, partie 2
 
-{{< ubicast "https://tv.octo.com/permalink/v125abcb34cf2e8nmmj2/iframe" >}}
+{{< ubicast "https://octo.ubicast.tv/permalink/v125abcb34cf2e8nmmj2/iframe" >}}
 
 ### Sous le capot d'un conteneur
 
-{{< ubicast "https://tv.octo.com/permalink/v125abcc094c725oqbw9/iframe" >}}
+{{< ubicast "https://octo.ubicast.tv/permalink/v125abcc094c725oqbw9/iframe" >}}
 
 ### IPv6: une manière de penser radicalement différente
 
-{{< ubicast "https://tv.octo.com/permalink/v125aaac08764p8wkees/iframe/" >}}
+{{< ubicast "https://octo.ubicast.tv/permalink/v125aaac08764p8wkees/iframe/" >}}
 
 ### Mesos: retour d'expérience
 
-{{< ubicast "https://tv.octo.com/permalink/v125a989425a5oeubtgm/iframe/" >}}
+{{< ubicast "https://octo.ubicast.tv/permalink/v125a989425a5oeubtgm/iframe/" >}}
 
 ### Introduction aux systèmes distribués
 
